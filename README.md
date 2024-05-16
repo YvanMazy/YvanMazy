@@ -8,7 +8,7 @@
 - 🗣 **Languages**: Native French speaker.
 - 🕹 **Interests**: I have an interest in automation and occasionally delve into Minecraft, amongst other programming hobbies.
 
-📫 **Contact Me on Discord**: [Darkkraft](https://discord.com/)
+📫 **Contact Me on Discord**: [yvandev](https://discord.com/)
 
 🛠️ **Technologies & Tools**:
 
