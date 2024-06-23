@@ -8,8 +8,8 @@
 - 🗣 **Languages**: Native French speaker.
 - 🕹 **Interests**: I have an interest in automation and occasionally delve into Minecraft, amongst other programming hobbies.
 
-📫 **Contact Me on Discord**: [yvandev](https://discord.com/)
-📫 **Email**: [mazy.yvan@protonmail.com](mailto:mazy.yvan@protonmail.com)
+📫 **Contact Me by Discord**: [yvandev](https://discord.com/)\
+📫 **Contact Me by Email**: [mazy.yvan@protonmail.com](mailto:mazy.yvan@protonmail.com)
 
 🛠️ **Technologies & Tools**:
 
